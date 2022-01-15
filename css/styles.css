@@ -65,14 +65,14 @@ p{
 }
 /* testimonials */
 #testimonials{
-  padding: 7% 15%;
+
   text-align: center;
   background-color: #ef8172;
   color: #fff;
 }
 .testimonials-image{
   border-radius: 100%;
-  width: 20%;
+  width: 15%;
   margin: 20px;
 }
 #press{
@@ -82,4 +82,15 @@ p{
 }
 .press-logo{
   width:15%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* pricing table */
+#pricing{
+  padding: 90px;
+  text-align:center;
+}
+.pricing-column{
+  padding: 3%;
 }
